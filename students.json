@@ -1,0 +1,27 @@
+[
+  {
+    "id": "1",
+    "name": "DEEPAK",
+    "department": "CSIT"
+  },
+  {
+    "id": "2",
+    "name": "GABRIEL",
+    "department": "IT"
+  },
+  {
+    "id": "3",
+    "name": "Noob",
+    "department": "BCA"
+  },
+  {
+    "id": "4",
+    "name": "Sujan",
+    "department": "Science"
+  },
+  {
+    "id": "5",
+    "name": "sumin",
+    "department": "Humanities"
+  }
+]

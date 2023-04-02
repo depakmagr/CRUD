@@ -26,7 +26,7 @@ def inquery():
 
     elif selection == 'u':
         id = input("Enter the student ID ")
-        to_change = input("What do you wish to update? (name, age, department) ")
+        to_change = input("What do you wish to update? (name, department) ")
         value = input(f"Give the new {to_change} ")
         cont = update(id, to_change, value)
         return continue_or_not(cont)
